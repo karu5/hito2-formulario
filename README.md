@@ -1,4 +1,5 @@
 Deploy: https://github.com/karu5/hito2-formulario
+Web: https://main--registro-pizzeria.netlify.app/
 
 
 # React + Vite
