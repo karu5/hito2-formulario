@@ -1,10 +1,10 @@
 import './App.css'
-import Navbar from './componentes/Navbar'
-import Home from './componentes/Home'
-import Footer from './componentes/Footer'
+import Navbar from './componentes/Navbar.jsx'
+import Home from './componentes/Home.jsx'
+import Footer from './componentes/Footer.jsx'
 import 'bootstrap/dist/css/bootstrap.min.css'
-import RegisterPage from './componentes/RegisterPage'
-import LoginPage from './componentes/LoginPage'
+import RegisterPage from './componentes/RegisterPage.jsx'
+import LoginPage from './componentes/LoginPage.jsx'
 
 
 function App() {
